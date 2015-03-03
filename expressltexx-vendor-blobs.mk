@@ -131,7 +131,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/samsung/expressltexx/proprietary/bin/insthk:system/bin/insthk \
     vendor/samsung/expressltexx/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/samsung/expressltexx/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
+    vendor/samsung/expressltexx/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/expressltexx/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/expressltexx/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
     vendor/samsung/expressltexx/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
